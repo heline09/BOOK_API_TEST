@@ -97,6 +97,8 @@ Each test run follows this structure:
    npm install
 
 2. Run tests in headed mode
-   - npx cypress open
+   ```bash
+   npx cypress open
 3. Run headless mode
-   - npx cypress run
+   ```
+   npx cypress run
